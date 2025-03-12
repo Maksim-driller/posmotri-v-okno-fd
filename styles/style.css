@@ -308,10 +308,6 @@ ol {
   align-self: flex-end;
 }
 
-.button:focus {
-  outline: none;
-}
-
 .button:hover {
   text-decoration: underline 1px #fff;
 }
@@ -323,6 +319,10 @@ ol {
 .button:focus-visible {
   outline: 3px solid #fff;
 }
+
+
+/* dwd */ 
+
 
 
 /* Кастомный скроллбар */
